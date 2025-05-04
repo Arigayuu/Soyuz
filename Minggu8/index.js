@@ -7,3 +7,13 @@ for (let i = 1; i <= 5; i++){
 
     console.log(asterisCharacter);
 }
+
+let sayHello = function () {
+    console.log("hello world!");
+};
+sayHello();
+
+let testing = "I am lerning JavaScript";
+console.log(testing.length);
+console.log(testing.split(" "));
+
